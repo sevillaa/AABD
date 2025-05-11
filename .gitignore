@@ -124,3 +124,4 @@ dmypy.json
 .pyre/
 
 /P5_Proyecto_Final/data/SBAnational.csv
+P5_Proyecto_Final/data/xAI/shap_values.npz
